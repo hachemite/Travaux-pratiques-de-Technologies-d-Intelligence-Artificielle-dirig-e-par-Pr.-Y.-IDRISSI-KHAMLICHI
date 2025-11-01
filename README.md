@@ -3,6 +3,7 @@
 ### 🧠 Travaux Pratiques de Technologies d'Intelligence Artificielle
 
 **Réalisé par Hachem Squalli Elhoussaini**
+
 **Dirigés par Pr. Y. Idrissi Khamlichi**
 
 Ce dépôt contient les **travaux pratiques (TP)** du module **Technologies d’Intelligence Artificielle**, encadré par **Pr. Y. Idrissi Khamlichi**.
